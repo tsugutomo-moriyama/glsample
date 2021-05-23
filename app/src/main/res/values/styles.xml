@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="whiteText">
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <style name="filterName">
+        <item name="android:textSize">8dp</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="contentsTitle" parent="whiteText">
+        <item name="android:textSize">20dp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="contentsName" parent="whiteText">
+        <item name="android:textSize">20dp</item>
+    </style>
+    <style name="contentsLikeCount" parent="whiteText">
+        <item name="android:textSize">15dp</item>
+    </style>
+    <style name="contentsDistance" parent="whiteText">
+        <item name="android:textSize">15dp</item>
+    </style>
+    <style name="contentsCoordinate" parent="whiteText">
+        <item name="android:textSize">15dp</item>
+    </style>
+    <style name="contentsContents" parent="whiteText">
+        <item name="android:textSize">15dp</item>
+    </style>
+</resources>
